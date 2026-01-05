@@ -1,1 +1,38 @@
 Prompt
+
+Problem Statement:
+Create a sleek, modern e-commerce shopping cart application web interface.  Build a visually polished, interactive frontend-only Web UI project from scratch using Vue or React (your choice) that displays shopping features with beautiful UI/UX design, smooth animations, and an intuitive user experience.  Use mock product data or sample inventory.  No backend required—purely frontend application.  Feel free to implement any features and design patterns you think would enhance the shopping experience.
+
+Requirements:
+Create a complete runnable project from zero.
+
+Generate full test coverage (unit + simple E2E).
+
+All tests must run and pass.
+
+Finally, run the project to ensure it boots successfully.
+
+If anything fails, fix it and re-run until everything passes.
+
+Do not assume success—treat it as a real execution environment.
+
+Deliverables:
+Full project structure
+
+All source code files
+
+All test files
+
+All configuration files
+
+Commands used to install, test, and run
+
+Logs from running tests and launching the dev server
+
+Short summary after successful run
+
+Title:
+Shopping Cart Application Web UI Generation & Full Test Execution
+
+Description:
+This task evaluates the model's ability to design and implement a complete, aesthetically refined, frontend-only e-commerce shopping cart application interface from scratch with exceptional UI/UX focus, write and execute tests end-to-end, iteratively fix issues, and successfully launch the final application—treating the workflow exactly as a real development environment.
